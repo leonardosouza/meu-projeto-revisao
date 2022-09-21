@@ -1,0 +1,19 @@
+.lista {
+  padding: 5px;
+}
+
+.listaItem {
+  list-style: none;
+  width: 100%;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0 10px 0;
+  background-color: rgb(8, 82, 152);
+  display: flex;
+  justify-content: space-between;
+}
+
+.status {
+  font-weight: 600;
+}

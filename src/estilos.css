@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(240, 240, 240);
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.todos {
+  padding: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo {
+  color: rgb(8, 8, 88);
+  font-size: 48px;
+  text-align: center;
+  margin: 15px;
+}
